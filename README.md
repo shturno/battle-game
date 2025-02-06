@@ -29,5 +29,7 @@ This is a simple battle game where heroes face villains in epic combats. The gam
 Contributions are welcome! Feel free to submit pull requests with improvements or fixes.
 
 ## Author
-Gabriela Alvarenga
-gabrielasalvarenga2@gmail.com
+@shturno
+
+## Contact
+[Email](mailto:gabriel.dsalvarenga@gmail.com)
